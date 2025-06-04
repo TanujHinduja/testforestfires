@@ -40,3 +40,13 @@ def predict_datapoint():
 
 if __name__=="__main__":    # This runs the Flask application when you run this script directly
     app.run(host="0.0.0.0")
+
+
+
+# Create a git repository and push this code to GitHub
+# git init
+# git add applicationwithcomments.py
+# git commit -m "Initial commit with comments"
+# git branch -M main
+# git remote add origin
+# git push -u origin main
